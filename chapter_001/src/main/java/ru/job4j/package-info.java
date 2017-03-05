@@ -1,7 +1,7 @@
 /**
 * //TODO add comments.
 *
-* @author Petr Arsentev (mailto:parsentev@yandex.ru)
+* @author Ilya Popov (mailto:201086z@gmail.com)
 * @version $Id$
 * @since 0.1
 */
